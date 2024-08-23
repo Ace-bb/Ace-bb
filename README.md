@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+repo;)](https://github.com/Ace-bb)
-## Hi there 👋
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username={YOUR_USERNAME}&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 <!--
 **Ace-bb/Ace-bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
