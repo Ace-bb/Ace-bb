@@ -4,6 +4,12 @@
 <!--
 **Ace-bb/Ace-bb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+
+<img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
