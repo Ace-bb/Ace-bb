@@ -30,16 +30,16 @@
 
 ## Work time
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&layout=compact" /> -->
 
 <img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ace-bb&theme=react)](https://github.com/Ace-bb)
 
 <p align="center" style="width:100%">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=UP!&fontAlign=80&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=UP!&fontAlign=80&fontAlignY=40&color=gradient" />
 </p>
 
 <!--
