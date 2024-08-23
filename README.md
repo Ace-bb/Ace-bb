@@ -1,14 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Libinbin;Someone+who+plans+to+be+a+senior+algorithm+engineer;Welcome+to+my+repo;)](https://github.com/Ace-bb)
 
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ace-bb&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
+
 - 我正在学习：**Mainstream LLM architecture**, **DPO**, **LLM Quantization**
 - 正在进行的项目：[一步到位-图表精准识别](https://github.com/Ace-bb/LLM-based-graph-tool)、[小模型实现Function Calling参数精准输出](https://github.com/Ace-bb/Function_Calling_mini_llm_train)
 - 我参与的共建有：[LLM101-n解读](https://github.com/SmartFlowAI/LLM101n-CN)
 - 我的学习知识库：[LLM-tutorile-AllinOne](https://github.com/Ace-bb/LLM-tutorial-AllinOne)，我阅读的优质资料都会归类到此。
 - 我的CSDN博客为：[Libinbin的博客](https://blog.csdn.net/Ace_bb)，未来将以LLM相关文章为主，欢迎访问。
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace-bb&hide=contribs,prs)
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ace-bb&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<!--![Libinbin GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace-bb&theme=radical&hide=prs)-->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ace-bb)](https://git.io/streak-stats)
 
