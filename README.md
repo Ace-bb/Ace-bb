@@ -6,6 +6,8 @@
 - 我的学习知识库：[LLM-tutorile-AllinOne](https://github.com/Ace-bb/LLM-tutorial-AllinOne)，我阅读的优质资料都会归类到此。
 - 我的CSDN博客为：[Libinbin的博客](https://blog.csdn.net/Ace_bb)，未来将以LLM相关文章为主，欢迎访问。
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace-bb&hide=contribs,prs)
+
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=Ace-bb&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ace-bb)](https://git.io/streak-stats)
