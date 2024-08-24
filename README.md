@@ -21,18 +21,20 @@
 ![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=fff)
- 
+
 ## 📖Recent blogs
-> 1. [LLM101n 硬核代码解读：超详解读numpy实现多层感知机MLP](https://mp.weixin.qq.com/s/454zpolG1kws0oRy2Hc-RA)
-> 2. [书生大模型实战营闯关记录----第八关：书生大模型全链路开源开放体系](http://t.csdnimg.cn/Ne6TS)
-> 3. [书生大模型实战营闯关记录----第七关：模型评估，使用OpenCompass评估大模型，OpenCompass入门](http://t.csdnimg.cn/EWOOq)
-> 4. [书生大模型实战营闯关记录----第六关：大语言模型微调实战，LoRA和QLoRA微调，理论+Xtuner微调实操](http://t.csdnimg.cn/Ak73v)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&layout=compact" />
+
+1. [LLM101n 硬核代码解读：超详解读numpy实现多层感知机MLP](https://mp.weixin.qq.com/s/454zpolG1kws0oRy2Hc-RA)
+2. [书生大模型实战营闯关记录----第八关：书生大模型全链路开源开放体系](http://t.csdnimg.cn/Ne6TS)
+3. [书生大模型实战营闯关记录----第七关：模型评估，使用OpenCompass评估大模型，OpenCompass入门](http://t.csdnimg.cn/EWOOq)
+4. [书生大模型实战营闯关记录----第六关：大语言模型微调实战，LoRA和QLoRA微调，理论+Xtuner微调实操](http://t.csdnimg.cn/Ak73v)
 
 ## Work time
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" /> -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&layout=compact" /> -->
 
 <img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
 
