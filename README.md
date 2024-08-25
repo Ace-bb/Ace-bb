@@ -33,7 +33,7 @@
 
 ## Work time
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" /> -->
 
 
 <img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
