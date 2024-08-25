@@ -25,7 +25,7 @@
 ## 📖Recent blogs
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ace-bb&layout=compact" />
-
+1. [LLM101N：用C++实现micrograd，手把手从零教你](https://mp.weixin.qq.com/s/Jx1dIuP1IRIJrDdGWaMOVw)
 1. [LLM101n 硬核代码解读：超详解读numpy实现多层感知机MLP](https://mp.weixin.qq.com/s/454zpolG1kws0oRy2Hc-RA)
 2. [书生大模型实战营闯关记录----第八关：书生大模型全链路开源开放体系](http://t.csdnimg.cn/Ne6TS)
 3. [书生大模型实战营闯关记录----第七关：模型评估，使用OpenCompass评估大模型，OpenCompass入门](http://t.csdnimg.cn/EWOOq)
@@ -33,7 +33,7 @@
 
 ## Work time
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" /> -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
 
 
 <img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
