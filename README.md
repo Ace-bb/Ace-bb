@@ -10,7 +10,8 @@
 - 我的学习知识库：[LLM-tutorile-AllinOne](https://github.com/Ace-bb/LLM-tutorial-AllinOne)，我阅读的优质资料都会归类到此。
 - 我的CSDN博客为：[Libinbin的博客](https://blog.csdn.net/Ace_bb)，未来将以LLM相关文章为主，欢迎访问。
 - 🌟**My Skills**🌟：
-
+  
+![](https://wakatime.com/badge/user/f42aafad-ed0a-40ba-96e0-aceb666e5ae6.svg)
 ![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-SpingBoot-6DB33F?style=flat-square&logo=spring&logoColor=fff)
@@ -34,13 +35,18 @@
 6. [书生大模型实战营闯关记录----第六关：大语言模型微调实战，LoRA和QLoRA微调，理论+Xtuner微调实操](http://t.csdnimg.cn/Ak73v)
 
 ## Work time
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
-<!--  -->
+
+<p align="center" style="width:100%;display:flex;flex-direction:row;">
+  <img align="left" width="46%" style="flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=binbin&layout=compact" />
+  <img align="left" width="46%" height="100%" style="flex:1" src="https://github-readme-activity-graph.vercel.app/graph?username=Ace-bb&theme=react" />
+</p>
+
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ace-bb&theme=react)](https://github.com/Ace-bb) -->
+
+<!--<img align="center" src="https://skillicons.dev/icons?i=Ace&theme=light" /> -->
 
 
-<img align="center" src="https://skillicons.dev/icons?i=Ace&theme=light" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ace-bb&theme=react)](https://github.com/Ace-bb)
 
 <p align="center" style="width:100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=UP!&fontAlign=80&fontAlignY=40&color=gradient" />
