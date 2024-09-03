@@ -34,11 +34,11 @@
 6. [书生大模型实战营闯关记录----第六关：大语言模型微调实战，LoRA和QLoRA微调，理论+Xtuner微调实操](http://t.csdnimg.cn/Ak73v)
 
 ## Work time
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" />
+<!--  -->
 
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ace-bb&layout=compact" /> -->
 
-
-<img align="center" src="https://skillicons.dev/icons?i=Ace-bb&theme=light" />
+<img align="center" src="https://skillicons.dev/icons?i=Ace&theme=light" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ace-bb&theme=react)](https://github.com/Ace-bb)
 
