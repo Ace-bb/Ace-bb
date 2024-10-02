@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+Libinbin;Someone+who+plans+to+be+a+senior+algorithm+engineer;Welcome+to+my+repo;)](https://github.com/Ace-bb)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+someone+who+plans+to+be+a+senior+algorithm+engineer;Welcome+to+my+repo;)](https://github.com/Ace-bb)
 
 <a href="#">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Ace-bb&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
